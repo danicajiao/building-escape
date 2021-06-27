@@ -79,3 +79,6 @@ DerivedDataCache/*
 
 # Script files
 Script/*
+
+# Mac Files
+.DS_Store
