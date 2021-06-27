@@ -82,3 +82,6 @@ Script/*
 
 # Mac Files
 .DS_Store
+
+# Debian files
+*.deb
